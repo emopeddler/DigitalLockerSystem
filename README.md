@@ -27,50 +27,6 @@ A Java-based secure digital locker system that allows users to register, log in,
 
 ---
 
-## Screenshots
-
-### Login Page
-![Login Page](media/login-page.png)
-
-### Dashboard
-![Dashboard](media/dashboard.png)
-
-### Upload
-![Upload](media/upload.png)
-![Upload](media/upload.png(2))
-![Upload](media/upload.png(3))
-
-### Download
-![Download](media/download.png)
-![Download](media/download.png(2))
-
-### Delete
-![Delete](media/delete.png)
-![Delete](media/delete.png(2))
-
-### Change Password
-![Change Password](media/change-password.png)
-![change Password](media/change-password.png(2))
-
-### Create Account
-![Create Account](media/registration.png)
-
-
-
-### 
-
----
-
-## Demo Video
-
-Click below to watch the working demo:
-
-[▶️ Watch Demo Video](media/demo-video.mp4)
-
-> **Note**: If the video doesn't play in GitHub, download it or play from your local clone.
-
----
-
 ## How to Run the Project
 
 1. **Install MySQL** and create a database named `digital_locker`.
